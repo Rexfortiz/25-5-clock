@@ -1,0 +1,39 @@
+body{
+    background-color: #242424;
+    color: aliceblue;
+}
+
+#container{
+    background-color: #414141;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 15px;
+    padding-top: 20px;
+    box-shadow: 3px 3px 25px #181818;
+}
+
+#timer-label{
+    padding-top:5px ;
+}
+
+
+.card{
+    width: 200px;
+    height: 120px;
+    margin: auto;
+    background-color: #636363;
+    color: aliceblue;
+    box-shadow: 3px 3px 15px #18181862;
+}
+
+.numDis{
+    padding: 10px 10px 30px 10px;
+}
+
+.btn{
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 3px 3px 10px #18181834;
+}
